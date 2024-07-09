@@ -40,5 +40,5 @@ To get started with this project, you'll need to have the following installed:
 
 Clone this repository to your local machine:
 ```sh
-git clone https://github.com/your-username/rust-diesel-learning.git
-cd rust-diesel-learning
+git clone https://github.com/Mhezron/diesel-rust-sandbox.git
+
